@@ -5,4 +5,4 @@ jobs:
     runs-on: windows-latest
     steps:
     - name: Minecraft AFKBot
-      uses: Minionguyjpro/Afk-bot@v1.0.3
+      uses: Minionguyjpro/Afk-bot@master
