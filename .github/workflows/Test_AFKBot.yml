@@ -1,0 +1,8 @@
+name: Test AFKBot
+on: [push]
+jobs:
+ build:
+    runs-on: windows-latest
+    steps:
+    - name: Minecraft AFKBot
+      uses: Minionguyjpro/Afk-bot@v1.0.0
